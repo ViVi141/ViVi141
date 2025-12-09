@@ -53,14 +53,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- GitHub 统计卡片 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViVi141&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&ring_color=FF6B9D&border_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViVi141&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&ring_color=FF6B9D&border_color=00D9FF"/>
-
-</div>
-
 <!-- 动态贡献图表 -->
 <div align="center">
 
@@ -455,13 +447,6 @@ Most of my projects are licensed under the **MIT License**, except **MinerU** wh
 **💫 超越时空，计算未来 💫**
 
 Made with ❤️ by [ViVi141](https://github.com/ViVi141)
-
-<!-- GitHub 成就徽章 -->
-<div align="center">
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ViVi141&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 <!-- 访问计数 - 使用多个备选服务 -->
 <div align="center">

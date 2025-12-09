@@ -463,10 +463,14 @@ Made with ❤️ by [ViVi141](https://github.com/ViVi141)
 
 </div>
 
-<!-- 访问计数 -->
+<!-- 访问计数 - 使用多个备选服务 -->
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/ViVi141/count.svg)
+<!-- 主要计数器 -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ViVi141.ViVi141&left_color=00D9FF&right_color=FF6B9D&left_text=Visitors)
+
+<!-- 备用计数器（如果上面的不可用，可以取消注释） -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/ViVi141/count.svg) -->
 
 </div>
 

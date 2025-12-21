@@ -228,7 +228,9 @@
 
 <div align="center">
 
-**🤖 基于自然语言交互与空间智能的广东省自然资源合规审查系统**
+ 融合大语言模型与地理人工智能的自然资源合规审查方法研究
+
+——基于“语言-空间-知识”协同推理的框架构建与验证
 
 </div>
 
@@ -304,14 +306,14 @@ Arma Reforger DNS污染和劫持修复工具
 </td>
 <td width="50%">
 
-### 🎵 zeus-music-maker
+### 🌐 MNR-Law-Crawler-Online
 
-[![GitHub](https://img.shields.io/github/stars/ViVi141/zeus-music-maker?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/ViVi141/zeus-music-maker)
-[![GitHub](https://img.shields.io/github/forks/ViVi141/zeus-music-maker?style=flat-square&logo=github&labelColor=0D1117&color=FF6B9D)](https://github.com/ViVi141/zeus-music-maker)
+[![GitHub](https://img.shields.io/github/stars/ViVi141/MNR-Law-Crawler-Online?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/ViVi141/MNR-Law-Crawler-Online)
+[![GitHub](https://img.shields.io/github/forks/ViVi141/MNR-Law-Crawler-Online?style=flat-square&logo=github&labelColor=0D1117&color=FF6B9D)](https://github.com/ViVi141/MNR-Law-Crawler-Online)
 
-Arma 3 音乐模组制作工具
+自然资源部法律法规爬虫（在线版）
 
-**技术栈:** Python • Game Modding • Audio
+**技术栈:** Python • Web Scraping • Data Collection
 
 </td>
 </tr>
@@ -402,6 +404,7 @@ Arma 3 音乐模组制作工具
 - [**space-planning-spider**](https://github.com/ViVi141/space-planning-spider) - 国土空间规划政策数据采集系统
 - [**china-land-gui**](https://github.com/ViVi141/china-land-gui) - 中国土地相关数据查询工具
 - [**MNR-Law-Crawler**](https://github.com/ViVi141/MNR-Law-Crawler) - 自然资源部法律法规爬虫
+- [**MNR-Law-Crawler-Online**](https://github.com/ViVi141/MNR-Law-Crawler-Online) - 自然资源部法律法规爬虫（在线版）
 - [**gd-law-crawler**](https://github.com/ViVi141/gd-law-crawler) - 广东省法律法规爬虫
 
 </div>
